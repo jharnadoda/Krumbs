@@ -7,7 +7,6 @@
 <li>Getting Started</li>
 <li>Users</li>
 <li>Features</li>
-<li>Visual preview</li>
 <li>Contact Me</li>
 
 </ol>
@@ -81,17 +80,23 @@ Application starts running on http://localhost:3000
 # Features
 
 ## System Admin 
-*Adds new restaurants that can be hosted on the site
-*Adds new users (admin) for the restaurant
-*Revokes restaurant and user access 
+*Adds new restaurants that can be hosted on the site<br>
+*Adds new users (admin) for the restaurant<br>
+*Revokes restaurant and user access <br>
 
 ## Restaurant Admin 
-*Manges Menu (CRUD)
-*Manages Leftover Menu (CRUD)
-*Manages Orders 
+*Manges Menu (CRUD) <br>
+*Manages Leftover Menu (CRUD)<br>
+*Manages Orders <br>
 
 ## Customer
-*Browse Restaurants
-*Browse Menu for each resaurant
-*Add items to cart
-*Proceed to checkout and place order
+*Browse Restaurants<br>
+*Browse Menu for each resaurant<br>
+*Add items to cart<br>
+*Proceed to checkout and place order<br>
+
+# Contact Me
+
+Like my work? Here is how you can contact me:
+
+*dodajharna99@gmail.com
