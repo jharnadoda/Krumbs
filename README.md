@@ -80,23 +80,23 @@ Application starts running on http://localhost:3000
 # Features
 
 ## System Admin 
-*Adds new restaurants that can be hosted on the site<br>
-*Adds new users (admin) for the restaurant<br>
-*Revokes restaurant and user access <br>
+<li>Adds new restaurants that can be hosted on the site</li>
+<li>Adds new users (admin) for the restaurant</li>
+<li>Revokes restaurant and user access </li>
 
 ## Restaurant Admin 
-*Manges Menu (CRUD) <br>
-*Manages Leftover Menu (CRUD)<br>
-*Manages Orders <br>
+<li>Manges Menu (CRUD) </li>
+<li>Manages Leftover Menu (CRUD)</li>
+<li>Manages Orders </li>
 
 ## Customer
-*Browse Restaurants<br>
-*Browse Menu for each resaurant<br>
-*Add items to cart<br>
-*Proceed to checkout and place order<br>
+<li>Browse Restaurants</li>
+<li>Browse Menu for each resaurant</li>
+<li>Add items to cart</li>
+<li>Proceed to checkout and place order</li>
 
 # Contact Me
 
 Like my work? Here is how you can contact me:
 
-*dodajharna99@gmail.com
+##dodajharna99@gmail.com
