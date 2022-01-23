@@ -20,7 +20,7 @@ An online food ordering system where customers can browse the menu for multiple 
 # Built with
 <ul>
 
-## Frontend
+### Frontend
 <li>HTML</li>
 <li>CSS/SCSS</li>
 <li>React</li>
@@ -29,13 +29,13 @@ An online food ordering system where customers can browse the menu for multiple 
 
 
 
-## Backend
+### Backend
 <li>Express</li>
 <li>Mongo DB(Database)</li>
 
 
 
-## UX
+### UX
 <li>Canva</li>
 <li>Figma</li>
 
@@ -49,7 +49,7 @@ An online food ordering system where customers can browse the menu for multiple 
 npm install
 ```
 
-## To run API: 
+### To run API: 
 
   ```sh
    cd server node server.js 
@@ -58,7 +58,7 @@ npm install
 
 Server starts running on http://localhost:7000
 
-<h2>To run Frontend:</h2> 
+### To run Frontend:
 
   ```sh
    d web app npm start
@@ -79,17 +79,17 @@ Application starts running on http://localhost:3000
 
 # Features
 
-## System Admin 
+### System Admin 
 <li>Adds new restaurants that can be hosted on the site</li>
 <li>Adds new users (admin) for the restaurant</li>
 <li>Revokes restaurant and user access </li>
 
-## Restaurant Admin 
+### Restaurant Admin 
 <li>Manges Menu (CRUD) </li>
 <li>Manages Leftover Menu (CRUD)</li>
 <li>Manages Orders </li>
 
-## Customer
+### Customer
 <li>Browse Restaurants</li>
 <li>Browse Menu for each resaurant</li>
 <li>Add items to cart</li>
@@ -99,4 +99,4 @@ Application starts running on http://localhost:3000
 
 Like my work? Here is how you can contact me:
 
-##dodajharna99@gmail.com
+## dodajharna99@gmail.com
